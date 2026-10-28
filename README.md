@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.jpg" width="160" height="160" alt="Ketan Gote" style="border-radius:50%;">
+</p>
+
 <h1 align="center">Hi, I'm Ketan Gote 👋</h1>
 
 <p align="center">
